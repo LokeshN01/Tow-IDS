@@ -1,0 +1,7 @@
+scapy
+pandas
+tqdm
+numpy
+matplotlib
+tensorflow
+pywt
